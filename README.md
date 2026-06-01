@@ -17,6 +17,6 @@ To verify my professional background, view ongoing research, or get in touch for
 ---
 
 ### 🛠️ Technical Foundation
-* **Languages:** Python, R, MATLAB, SQL
-* **Specializations:** Text Mining, LLMS, Predictive Analytics, Financial Computing, Econometrics
+* **Languages:** Python, R, SQL
+* **Specializations:** Text Mining, GenAI/LLMS, Marketing Analytics, Quantitative Finance, Stochastic Modeling
 
